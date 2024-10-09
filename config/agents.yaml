@@ -1,0 +1,7 @@
+MeetingAssistant:
+  tools:
+    - name: "OpenAI LLM"
+      type: "llm"
+      provider: "OpenAI"
+  purpose: "Generate tasks from meeting notes"
+  strategy: "Summarize notes and create actionable items"

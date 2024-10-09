@@ -1,0 +1,9 @@
+tasks:
+  - name: "Load meeting notes"
+    action: "Read from meeting_notes.txt"
+  - name: "Generate tasks"
+    action: "Use OpenAI LLM to extract action items"
+  - name: "Add tasks to Trello"
+    action: "Add each task to Trello board"
+  - name: "Send Slack notification"
+    action: "Notify team via Slack"
