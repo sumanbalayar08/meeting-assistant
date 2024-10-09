@@ -19,8 +19,8 @@ The Meeting Assistant automates the extraction of actionable tasks from meeting 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <https://github.com/sumanbalayar08/meeting-assistant.git>
+   cd <meeting-assistant>
 
 2. Create Virtual Environment
    ```bash
